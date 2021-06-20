@@ -36,6 +36,7 @@ def dump_2chthreads(data):
 def dump_twittersearchword(data):
     with open("twittersearchword.txt", "w", encoding="utf_8_sig") as f:
         print("# Twitterリアルタイム実況の検索ワード設定\n", file=f)
+
         for x in data["channels"]:
             write_each(f, x, " ".join([t.lstrip("#") for t in x.get("twitterKeywords", [])]))
 
@@ -44,7 +45,7 @@ def dump_niconicojikkyoids(data):
         print("# ニコニコ実況の実況ID設定\n", file=f)
 
         for x in data["channels"]:
-            write_each(f, x, x.get("nicojkId", ""))
+            write_each(f, x, x.get("nicojkId"))
 
 def dump_niconicoliveids(data):
     with open("niconicoliveids.txt", "w", encoding="utf_8_sig") as f:
@@ -52,6 +53,24 @@ def dump_niconicoliveids(data):
 
         for x in data["channels"]:
             write_each(f, x, " ".join(x.get("nicoliveCommunityIds", [])))
+
+def dump_channels(data):
+    with open("channels.txt", "w", encoding="utf_8_sig") as f:
+        print("# チャンネルリスト\n", file=f)
+
+        for x in data["channels"]:
+            print(f"# {x['type']}: {x['name']}", file=f)
+
+            sids = []
+            # GR では sid + 3 まで許容
+            if x["type"] == "GR":
+                for sid in x["serviceIds"]:
+                    sids.extend([sid, sid + 1, sid + 2])
+            else:
+                sids.extend(x["serviceIds"])
+
+            for sid in sids:
+                print(x["networkId"], sid, x["type"], x["name"], x.get("flag", 0), sep="\t", file=f)
 
 
 if __name__ == "__main__":
@@ -63,3 +82,4 @@ if __name__ == "__main__":
     dump_twittersearchword(data)
     dump_niconicojikkyoids(data)
     dump_niconicoliveids(data)
+    dump_channels(data)
