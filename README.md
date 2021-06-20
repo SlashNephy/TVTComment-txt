@@ -9,3 +9,4 @@
 - [niconicojikkyoids.txt](https://raw.githubusercontent.com/SlashNephy/TVTComment-txt/master/niconicojikkyoids.txt)
 - [niconicoliveids.txt](https://raw.githubusercontent.com/SlashNephy/TVTComment-txt/master/niconicoliveids.txt)
 - [twittersearchword.txt](https://raw.githubusercontent.com/SlashNephy/TVTComment-txt/master/twittersearchword.txt)
+- [channels.txt](https://raw.githubusercontent.com/SlashNephy/TVTComment-txt/master/channels.txt)
