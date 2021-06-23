@@ -40,8 +40,8 @@ def dump_twittersearchword(data):
         for x in data["channels"]:
             write_each(f, x, " ".join([t.lstrip("#") for t in x.get("twitterKeywords", [])]))
 
-def dump_niconicojikkyoids(data):
-    with open("niconicojikkyoids.txt", "w", encoding="utf_8_sig") as f:
+def dump_niconicojikkyouids(data):
+    with open("niconicojikkyouids.txt", "w", encoding="utf_8_sig") as f:
         print("# ニコニコ実況の実況ID設定\n", file=f)
 
         for x in data["channels"]:
@@ -80,6 +80,6 @@ if __name__ == "__main__":
 
     dump_2chthreads(data)
     dump_twittersearchword(data)
-    dump_niconicojikkyoids(data)
+    dump_niconicojikkyouids(data)
     dump_niconicoliveids(data)
     dump_channels(data)
