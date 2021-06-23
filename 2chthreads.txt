@@ -62,22 +62,55 @@ LOCAL_CTC	番組ch	https://himawari.5ch.net/weekly/subback.html	チバ
 LOCAL_GTV	番組ch	https://himawari.5ch.net/weekly/subback.html	群馬
 LOCAL_GYT	番組ch	https://himawari.5ch.net/weekly/subback.html	とちぎ
 LOCAL_WEST	番組ch(西日本)	https://himawari.5ch.net/livewkwest/subback.html	関西ローカル ｱﾆﾒ関西ﾛｰｶﾙ
+NANJ_NHK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NHK
+NANJ_NTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	日テレ
+NANJ_TBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TBS
+NANJ_CX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	フジ
+NANJ_ANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ朝
+NANJ_TX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ東
+NANJ_MX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	MX
+NANJ_TVK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TVK
+NANJ_SUN	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	SUN
+NANJ_NHKBS1	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS1
+NANJ_NHKBSP	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSプレミアム
+NANJ_BSNTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS日テレ
+NANJ_BSANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS朝日
+NANJ_BSTBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSTBS
+NANJ_BSTX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSテレ東 BSジャパン
+NANJ_BSCX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSフジ
+NANJ_BS11	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS11
+NANJ_BS12	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS12 TwellV
+NANJ_JSPORTS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	J SPORTS Jスポ
+NANJ_CXTWO	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TWO
+NANJ_NEWS24	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NEWS24
 
 [threadmapping]
 # GR: NHK 総合
 flags	1	NHK
+# GR: NHK 総合
+flags	1	NANJ_NHK
 # GR: Eテレ
 flags	2	ETV
 # GR: 日テレ
 flags	4	NTV
+# GR: 日テレ
+flags	4	NANJ_NTV
 # GR: テレビ朝日
 flags	32	ANB
+# GR: テレビ朝日
+flags	32	NANJ_ANB
 # GR: TBS
 flags	8	TBS
+# GR: TBS
+flags	8	NANJ_TBS
 # GR: テレビ東京
 flags	64	TX
+# GR: テレビ東京
+flags	64	NANJ_TX
 # GR: フジテレビ
 flags	16	CX
+# GR: フジテレビ
+flags	16	NANJ_CX
 # GR: TOKYO MX
 nsid	0xf5c38	MX
 nsid	0xf5c39	MX
@@ -90,6 +123,10 @@ nsid	0xf5c3a	LOCAL_MX
 nsid	0xf5c38	ANIME_MX
 nsid	0xf5c39	ANIME_MX
 nsid	0xf5c3a	ANIME_MX
+# GR: TOKYO MX
+nsid	0xf5c38	NANJ_MX
+nsid	0xf5c39	NANJ_MX
+nsid	0xf5c3a	NANJ_MX
 # GR: テレ玉
 nsid	0xf7438	LOCAL_TVS
 nsid	0xf7439	LOCAL_TVS
@@ -98,6 +135,10 @@ nsid	0xf743a	LOCAL_TVS
 nsid	0xf6038	LOCAL_TVK
 nsid	0xf6039	LOCAL_TVK
 nsid	0xf603a	LOCAL_TVK
+# GR: tvk
+nsid	0xf6038	NANJ_TVK
+nsid	0xf6039	NANJ_TVK
+nsid	0xf603a	NANJ_TVK
 # GR: チバテレビ
 nsid	0xf6c38	LOCAL_CTC
 nsid	0xf6c39	LOCAL_CTC
@@ -126,6 +167,10 @@ nsid	0xfa432	LOCAL_WEST
 nsid	0xfa830	LOCAL_WEST
 nsid	0xfa831	LOCAL_WEST
 nsid	0xfa832	LOCAL_WEST
+# GR: サンテレビ
+nsid	0xfa830	NANJ_SUN
+nsid	0xfa831	NANJ_SUN
+nsid	0xfa832	NANJ_SUN
 # GR: テレビ和歌山
 nsid	0xfac30	LOCAL_WEST
 nsid	0xfac31	LOCAL_WEST
@@ -141,29 +186,55 @@ nsid	0xfb432	LOCAL_WEST
 # BS: NHKBS1
 nsid	0x40065	BSNHK_BS1
 nsid	0x40066	BSNHK_BS1
+# BS: NHKBS1
+nsid	0x40065	NANJ_NHKBS1
+nsid	0x40066	NANJ_NHKBS1
 # BS: NHKBSプレミアム
 nsid	0x40067	BSNHK_BSP
 nsid	0x40068	BSNHK_BSP
+# BS: NHKBSプレミアム
+nsid	0x40067	NANJ_NHKBSP
+nsid	0x40068	NANJ_NHKBSP
 # BS: BS日テレ
 nsid	0x4008d	BSFREE_NTV
 nsid	0x4008e	BSFREE_NTV
 nsid	0x4008f	BSFREE_NTV
+# BS: BS日テレ
+nsid	0x4008d	NANJ_BSNTV
+nsid	0x4008e	NANJ_BSNTV
+nsid	0x4008f	NANJ_BSNTV
 # BS: BS朝日
 nsid	0x40097	BSFREE_ANB
 nsid	0x40098	BSFREE_ANB
 nsid	0x40099	BSFREE_ANB
+# BS: BS朝日
+nsid	0x40097	NANJ_BSANB
+nsid	0x40098	NANJ_BSANB
+nsid	0x40099	NANJ_BSANB
 # BS: BS-TBS
 nsid	0x400a1	BSFREE_TBS
 nsid	0x400a2	BSFREE_TBS
 nsid	0x400a3	BSFREE_TBS
+# BS: BS-TBS
+nsid	0x400a1	NANJ_BSTBS
+nsid	0x400a2	NANJ_BSTBS
+nsid	0x400a3	NANJ_BSTBS
 # BS: BSテレ東
 nsid	0x400ab	BSFREE_TX
 nsid	0x400ac	BSFREE_TX
 nsid	0x400ad	BSFREE_TX
+# BS: BSテレ東
+nsid	0x400ab	NANJ_BSTX
+nsid	0x400ac	NANJ_BSTX
+nsid	0x400ad	NANJ_BSTX
 # BS: BSフジ
 nsid	0x400b5	BSFREE_CX
 nsid	0x400b6	BSFREE_CX
 nsid	0x400b7	BSFREE_CX
+# BS: BSフジ
+nsid	0x400b5	NANJ_BSCX
+nsid	0x400b6	NANJ_BSCX
+nsid	0x400b7	NANJ_BSCX
 # BS: WOWOWプライム
 nsid	0x400bf	BSPAY_WOWOWP
 # BS: WOWOWライブ
@@ -180,8 +251,12 @@ nsid	0x400ca	BSPAY_STAR
 nsid	0x400d3	BSFREE_BS11
 # BS: BS11イレブン
 nsid	0x400d3	ANIME_BS11
+# BS: BS11イレブン
+nsid	0x400d3	NANJ_BS11
 # BS: BS12トゥエルビ
 nsid	0x400de	BSFREE_BS12
+# BS: BS12トゥエルビ
+nsid	0x400de	NANJ_BS12
 # BS: 放送大学ex
 nsid	0x400e7	BSFREE_OUJ
 # BS: 放送大学on
@@ -193,6 +268,14 @@ nsid	0x400ea	SKYPER_GREEN
 nsid	0x400ec	SKYPER_ANIMAX
 # BS: BSスカパー!
 nsid	0x400f1	BSPAY_SKYPER
+# BS: J SPORTS 1
+nsid	0x400f2	NANJ_JSPORTS
+# BS: J SPORTS 2
+nsid	0x400f3	NANJ_JSPORTS
+# BS: J SPORTS 3
+nsid	0x400f4	NANJ_JSPORTS
+# BS: J SPORTS 4
+nsid	0x400f5	NANJ_JSPORTS
 # BS: 日本映画専門ch
 nsid	0x400ff	SKYPER_225
 # BS: Dlife
@@ -229,6 +312,8 @@ nsid	0x70131	SKYPER_GINGA
 nsid	0x70133	SKYPER_CXONE
 # CS: フジテレビTWO
 nsid	0x70134	SKYPER_CXTWO
+# CS: フジテレビTWO
+nsid	0x70134	NANJ_CXTWO
 # CS: フジテレビNEXT
 nsid	0x70135	SKYPER_CXNEXT
 # CS: スーパー！ドラマTV
@@ -255,5 +340,7 @@ nsid	0x70156	SKYPER_HISTORY
 nsid	0x70157	SKYPER_NATIONAL
 # CS: 日テレNEWS24
 nsid	0x6015d	SKYPER_NEWS24
+# CS: 日テレNEWS24
+nsid	0x6015d	NANJ_NEWS24
 # CS: TBS NEWS
 nsid	0x7015f	SKYPER_TBSNEWS
