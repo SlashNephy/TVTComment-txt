@@ -64,6 +64,7 @@ LOCAL_GYT	番組ch	https://himawari.5ch.net/weekly/subback.html	とちぎ
 LOCAL_WEST	番組ch(西日本)	https://himawari.5ch.net/livewkwest/subback.html	関西ローカル ｱﾆﾒ関西ﾛｰｶﾙ
 ENDLESS_JCOM	実況ch	https://mao.5ch.net/endless/subback.html	J:COM
 ENDLESS_WNI	実況ch	https://mao.5ch.net/endless/subback.html	WNI
+NANU_WNI	なんでも実況U	https://fate.5ch.net/liveuranus/subback.html	WNI
 NANJ_NHK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NHK
 NANJ_ETV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Eテレ
 NANJ_NTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	日テレ
@@ -311,6 +312,8 @@ nsid	0x40102	BSFREE_DLIFE
 nsid	0x40213	BSFREE_OUJ
 # BS: SOLiVE24
 nsid	0x4038e	ENDLESS_WNI
+# BS: SOLiVE24
+nsid	0x4038e	NANU_WNI
 # CS: 東映チャンネル
 nsid	0x600da	SKYPER_218
 # CS: 映画・chNECO

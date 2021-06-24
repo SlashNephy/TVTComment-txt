@@ -1,4 +1,4 @@
-﻿# Twitterリアルタイム実況の検索ワード設定
+# Twitterリアルタイム実況の検索ワード設定
 
 # GR: NHK 総合
 flags	1	nhktv
