@@ -34,6 +34,8 @@ nsid	0xf603a	tvk
 nsid	0xf6c38	チバテレ
 nsid	0xf6c39	チバテレ
 nsid	0xf6c3a	チバテレ
+# GR: MBS毎日放送
+flags	8	tbs mbs
 # BS: NHKBS1
 nsid	0x40065	nhkbs1
 nsid	0x40066	nhkbs1

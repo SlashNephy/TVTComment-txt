@@ -34,6 +34,8 @@ nsid	0xf603a	11
 nsid	0xf6c38	12
 nsid	0xf6c39	12
 nsid	0xf6c3a	12
+# GR: MBS–ˆ“ú•ú‘—
+flags	8	6
 # BS: NHKBS1
 nsid	0x40065	101
 nsid	0x40066	101

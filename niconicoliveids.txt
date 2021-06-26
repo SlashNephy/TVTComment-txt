@@ -30,6 +30,8 @@ nsid	0xf603a	co5215296
 nsid	0xf6c38	co5359761
 nsid	0xf6c39	co5359761
 nsid	0xf6c3a	co5359761
+# GR: MBS–ˆ“ú•ú‘—
+flags	8	ch2646440
 # BS: NHKBS1
 nsid	0x40065	co5214081
 nsid	0x40066	co5214081
