@@ -66,11 +66,11 @@ ENDLESS_JCOM	実況ch	https://mao.5ch.net/endless/subback.html	J:COM
 ENDLESS_WNI	実況ch	https://mao.5ch.net/endless/subback.html	WNI
 NANU_WNI	なんでも実況U	https://fate.5ch.net/liveuranus/subback.html	WNI
 NANJ_NHK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NHK
-NANJ_ETV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Eテレ
-NANJ_NTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	日テレ
+NANJ_ETV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Eテレ ETV
+NANJ_NTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	日テレ NTV
 NANJ_TBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TBS
-NANJ_CX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	フジ
-NANJ_ANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ朝
+NANJ_CX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	フジ CX
+NANJ_ANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ朝 EX ﾆﾁｱｻ
 NANJ_TX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ東 TX
 NANJ_MX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	MX
 NANJ_TVK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TVK
@@ -84,8 +84,8 @@ NANJ_BSANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupit
 NANJ_BSTBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSTBS
 NANJ_BSTX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSテレ東 BSジャパン
 NANJ_BSCX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSフジ
-NANJ_WOWOW	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	WOWOW
-NANJ_BS11	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS11 BS12 BS13 BS14 BS15 BS16 BS17 BS18
+NANJ_WOWOW	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	WOWOW wowwow
+NANJ_BS11	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS11 BS12 BS13 BS14 BS15 BS16 BS17 BS18 BS19
 NANJ_BS12	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS12 TwellV
 NANJ_JSPORTS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	JSPORTS Jスポ
 NANJ_JSPORTS1	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ1
@@ -200,11 +200,17 @@ nsid	0xfb430	LOCAL_WEST
 nsid	0xfb431	LOCAL_WEST
 nsid	0xfb432	LOCAL_WEST
 # GR: MBS毎日放送
-flags	8	TBS
+nsid	0xf0810	TBS
+nsid	0xf0811	TBS
+nsid	0xf0812	TBS
 # GR: MBS毎日放送
-flags	8	NANJ_TBS
+nsid	0xf0810	NANJ_TBS
+nsid	0xf0811	NANJ_TBS
+nsid	0xf0812	NANJ_TBS
 # GR: MBS毎日放送
-flags	8	NANJ_MBS
+nsid	0xf0810	NANJ_MBS
+nsid	0xf0811	NANJ_MBS
+nsid	0xf0812	NANJ_MBS
 # GR: J:COM HD
 nsid	0xf5c68	ENDLESS_JCOM
 nsid	0xf5c69	ENDLESS_JCOM
