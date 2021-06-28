@@ -28,6 +28,7 @@ BSPAY_SKYPER	BS実況(有料)	https://himawari.5ch.net/livewowow/subback.html	BS
 SKYPER	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	
 SKYPER_GREEN	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	グリーンチャンネル
 SKYPER_ANIMAX	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	アニマックス
+SKYPER_WOWOWPLUS	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	WOWOWプラス
 SKYPER_225	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	日本映画専門
 SKYPER_218	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	東映チャンネル
 SKYPER_NECO	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	NECO NEKO
@@ -39,17 +40,17 @@ SKYPER_TBS	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	TBS
 SKYPER_ANB	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	テレ朝チャンネル
 SKYPER_NTVPLUS	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	日テレプラス
 SKYPER_GINGA	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	チャンネル銀河
-SKYPER_CXONE	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ONE
+SKYPER_CXONE	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ONE ゲームセンターCX
 SKYPER_CXTWO	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	TWO
 SKYPER_CXNEXT	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	NEXT
 SKYPER_SKYSTAGE	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	タカラヅカスカイステージ
 SKYPER_292	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	時代劇専門
 SKYPER_FAMILY	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ファミリー劇場
 SKYPER_MONDO	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	MONDOTV
-SKYPER_DISCOVERY	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾃﾞｨｽｶﾊﾞ
-SKYPER_ANIMAL	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ｱﾆﾌﾟﾗ
-SKYPER_HISTORY	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾋｽﾄﾘ
-SKYPER_NATIONAL	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾅｼｮｼﾞｵ
+SKYPER_DISCOVERY	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾃﾞｨｽｶﾊﾞ ディスカバ
+SKYPER_ANIMAL	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ｱﾆﾌﾟﾗ アニプラ
+SKYPER_HISTORY	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾋｽﾄﾘ ヒストリ
+SKYPER_NATIONAL	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	ﾅｼｮｼﾞｵ ナショジオ
 SKYPER_NEWS24	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	NEWS24
 SKYPER_TBSNEWS	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	TBS NEWS
 SKYPER_DRAMA	スカパー実況	https://himawari.5ch.net/liveskyp/subback.html	FOX・スパドラ・AXN・AXNミステリー
@@ -61,21 +62,25 @@ LOCAL_TVS	番組ch	https://himawari.5ch.net/weekly/subback.html	テレ玉
 LOCAL_CTC	番組ch	https://himawari.5ch.net/weekly/subback.html	チバ
 LOCAL_GTV	番組ch	https://himawari.5ch.net/weekly/subback.html	群馬
 LOCAL_GYT	番組ch	https://himawari.5ch.net/weekly/subback.html	とちぎ
+LOCAL_TOKAI	番組ch	https://himawari.5ch.net/weekly/subback.html	東海
 LOCAL_WEST	番組ch(西日本)	https://himawari.5ch.net/livewkwest/subback.html	関西ローカル ｱﾆﾒ関西ﾛｰｶﾙ
 ENDLESS_JCOM	実況ch	https://mao.5ch.net/endless/subback.html	J:COM
 ENDLESS_WNI	実況ch	https://mao.5ch.net/endless/subback.html	WNI
 NANU_WNI	なんでも実況U	https://fate.5ch.net/liveuranus/subback.html	WNI
+LOVELIVE_NHK	ラブライブ！	https://fate.5ch.net/lovelive/subback.html	NHK
+LOVELIVE_ETV	ラブライブ！	https://fate.5ch.net/lovelive/subback.html	Eテレ ETV
 NANJ_NHK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NHK
 NANJ_ETV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Eテレ ETV
 NANJ_NTV	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	日テレ NTV
 NANJ_TBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TBS
 NANJ_CX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	フジ CX
-NANJ_ANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ朝 EX ﾆﾁｱｻ
+NANJ_ANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ朝 【EX】 ﾆﾁｱｻ
 NANJ_TX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	テレ東 TX
 NANJ_MX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	MX
 NANJ_TVK	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TVK
 NANJ_SUN	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	SUN
 NANJ_MBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	MBS
+NANJ_CBC	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	CBC
 NANJ_NHKBS1	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS1
 NANJ_NHKBS2	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS2
 NANJ_NHKBSP	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSプレミアム BSP BS3
@@ -84,14 +89,14 @@ NANJ_BSANB	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupit
 NANJ_BSTBS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSTBS
 NANJ_BSTX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSテレ東 BSジャパン
 NANJ_BSCX	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BSフジ
-NANJ_WOWOW	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	WOWOW wowwow
+NANJ_WOWOW	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	WOWOW 【wowwow】
 NANJ_BS11	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS11 BS12 BS13 BS14 BS15 BS16 BS17 BS18 BS19
 NANJ_BS12	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	BS12 TwellV
-NANJ_JSPORTS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	JSPORTS Jスポ
-NANJ_JSPORTS1	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ1
-NANJ_JSPORTS2	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ2
-NANJ_JSPORTS3	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ3
-NANJ_JSPORTS4	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ4
+NANJ_JSPORTS	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	JSPORTS Jスポ SPORTS Jspo
+NANJ_JSPORTS1	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ1 SPORTS1 Jspo1
+NANJ_JSPORTS2	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ2 SPORTS2 Jspo2
+NANJ_JSPORTS3	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ3 SPORTS3 Jspo3
+NANJ_JSPORTS4	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	Jスポ4 SPORTS4 Jspo4
 NANJ_CXONE	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	ONE
 NANJ_CXTWO	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	TWO
 NANJ_CXNEXT	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupiter/subback.html	NEXT
@@ -102,9 +107,13 @@ NANJ_SKYA	なんでも実況(ジュピター)	https://swallow.5ch.net/livejupite
 # GR: NHK 総合
 flags	1	NHK
 # GR: NHK 総合
+flags	1	LOVELIVE_NHK
+# GR: NHK 総合
 flags	1	NANJ_NHK
 # GR: Eテレ
 flags	2	ETV
+# GR: Eテレ
+flags	2	LOVELIVE_ETV
 # GR: Eテレ
 flags	2	NANJ_ETV
 # GR: 日テレ
@@ -211,6 +220,22 @@ nsid	0xf0812	NANJ_TBS
 nsid	0xf0810	NANJ_MBS
 nsid	0xf0811	NANJ_MBS
 nsid	0xf0812	NANJ_MBS
+# GR: CBC
+nsid	0xf0c18	TBS
+nsid	0xf0c19	TBS
+nsid	0xf0c1a	TBS
+# GR: CBC
+nsid	0xf0c18	LOCAL_TOKAI
+nsid	0xf0c19	LOCAL_TOKAI
+nsid	0xf0c1a	LOCAL_TOKAI
+# GR: CBC
+nsid	0xf0c18	NANJ_TBS
+nsid	0xf0c19	NANJ_TBS
+nsid	0xf0c1a	NANJ_TBS
+# GR: CBC
+nsid	0xf0c18	NANJ_CBC
+nsid	0xf0c19	NANJ_CBC
+nsid	0xf0c1a	NANJ_CBC
 # GR: J:COM HD
 nsid	0xf5c68	ENDLESS_JCOM
 nsid	0xf5c69	ENDLESS_JCOM
@@ -322,6 +347,8 @@ nsid	0x400f3	NANJ_JSPORTS2
 nsid	0x400f4	NANJ_JSPORTS3
 # BS: J SPORTS 4
 nsid	0x400f5	NANJ_JSPORTS4
+# BS: WOWOWプラス
+nsid	0x400fc	SKYPER_WOWOWPLUS
 # BS: WOWOWプラス
 nsid	0x400fc	NANJ_WOWOW
 # BS: 日本映画専門ch

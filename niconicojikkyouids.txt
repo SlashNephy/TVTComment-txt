@@ -38,6 +38,10 @@ nsid	0xf6c3a	12
 nsid	0xf0810	6
 nsid	0xf0811	6
 nsid	0xf0812	6
+# GR: CBC
+nsid	0xf0c18	6
+nsid	0xf0c19	6
+nsid	0xf0c1a	6
 # BS: NHKBS1
 nsid	0x40065	101
 nsid	0x40066	101

@@ -38,6 +38,10 @@ nsid	0xf6c3a	チバテレ
 nsid	0xf0810	tbs mbs
 nsid	0xf0811	tbs mbs
 nsid	0xf0812	tbs mbs
+# GR: CBC
+nsid	0xf0c18	tbs cbc
+nsid	0xf0c19	tbs cbc
+nsid	0xf0c1a	tbs cbc
 # BS: NHKBS1
 nsid	0x40065	nhkbs1
 nsid	0x40066	nhkbs1

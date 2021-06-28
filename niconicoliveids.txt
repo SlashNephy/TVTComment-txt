@@ -34,6 +34,10 @@ nsid	0xf6c3a	co5359761
 nsid	0xf0810	ch2646440
 nsid	0xf0811	ch2646440
 nsid	0xf0812	ch2646440
+# GR: CBC
+nsid	0xf0c18	ch2646440
+nsid	0xf0c19	ch2646440
+nsid	0xf0c1a	ch2646440
 # BS: NHKBS1
 nsid	0x40065	co5214081
 nsid	0x40066	co5214081
