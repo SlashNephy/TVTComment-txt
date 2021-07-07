@@ -42,6 +42,10 @@ nsid	0xf0812	tbs mbs
 nsid	0xf0c18	tbs cbc
 nsid	0xf0c19	tbs cbc
 nsid	0xf0c1a	tbs cbc
+# GR: ABC
+nsid	0xf0818	tvasahi
+nsid	0xf0819	tvasahi
+nsid	0xf081a	tvasahi
 # BS: NHKBS1
 nsid	0x40065	nhkbs1
 nsid	0x40066	nhkbs1

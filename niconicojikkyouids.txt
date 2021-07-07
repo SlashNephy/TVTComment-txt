@@ -42,6 +42,10 @@ nsid	0xf0812	6
 nsid	0xf0c18	6
 nsid	0xf0c19	6
 nsid	0xf0c1a	6
+# GR: ABC
+nsid	0xf0818	5
+nsid	0xf0819	5
+nsid	0xf081a	5
 # BS: NHKBS1
 nsid	0x40065	101
 nsid	0x40066	101

@@ -38,6 +38,10 @@ nsid	0xf0812	ch2646440
 nsid	0xf0c18	ch2646440
 nsid	0xf0c19	ch2646440
 nsid	0xf0c1a	ch2646440
+# GR: ABC
+nsid	0xf0818	ch2646439
+nsid	0xf0819	ch2646439
+nsid	0xf081a	ch2646439
 # BS: NHKBS1
 nsid	0x40065	co5214081
 nsid	0x40066	co5214081
