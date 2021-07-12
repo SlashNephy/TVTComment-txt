@@ -43,8 +43,8 @@ nsid	0xf0818	ch2646439
 nsid	0xf0819	ch2646439
 nsid	0xf081a	ch2646439
 # BS: NHKBS1
-nsid	0x40065	co5214081
-nsid	0x40066	co5214081
+nsid	0x40065	ch2647992
+nsid	0x40066	ch2647992
 # BS: NHKBSƒvƒŒƒ~ƒAƒ€
 nsid	0x40067	co5175227
 nsid	0x40068	co5175227
