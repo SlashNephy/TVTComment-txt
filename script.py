@@ -76,7 +76,7 @@ def dump_channels(data):
 if __name__ == "__main__":
     with urllib.request.urlopen("https://raw.githubusercontent.com/SlashNephy/saya/dev/docs/definitions.yml") as response:
         content = response.read()
-        data = yaml.load(content)
+        data = yaml.load(content, Loader=yaml.SafeLoader)
 
     dump_2chthreads(data)
     dump_twittersearchword(data)
