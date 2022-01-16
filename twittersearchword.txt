@@ -1,9 +1,9 @@
 # Twitterリアルタイム実況の検索ワード設定
 
 # GR: NHK 総合
-flags	1	nhktv
+flags	1	nhkgtv
 # GR: Eテレ
-flags	2	Eテレ etv
+flags	2	Eテレ etv nhketv
 # GR: 日テレ
 flags	4	ntv
 # GR: テレビ朝日
@@ -53,25 +53,25 @@ nsid	0x40066	nhkbs1
 nsid	0x40067	nhkbsp
 nsid	0x40068	nhkbsp
 # BS: BS日テレ
-nsid	0x4008d	BS日テレ
-nsid	0x4008e	BS日テレ
-nsid	0x4008f	BS日テレ
+nsid	0x4008d	BS日テレ bsntv
+nsid	0x4008e	BS日テレ bsntv
+nsid	0x4008f	BS日テレ bsntv
 # BS: BS朝日
-nsid	0x40097	BS朝日
-nsid	0x40098	BS朝日
-nsid	0x40099	BS朝日
+nsid	0x40097	BS朝日 bsasahi
+nsid	0x40098	BS朝日 bsasahi
+nsid	0x40099	BS朝日 bsasahi
 # BS: BS-TBS
 nsid	0x400a1	bstbs
 nsid	0x400a2	bstbs
 nsid	0x400a3	bstbs
 # BS: BSテレ東
-nsid	0x400ab	BSテレ東 BSジャパン
-nsid	0x400ac	BSテレ東 BSジャパン
-nsid	0x400ad	BSテレ東 BSジャパン
+nsid	0x400ab	BSテレ東 BSジャパン bstvtokyo
+nsid	0x400ac	BSテレ東 BSジャパン bstvtokyo
+nsid	0x400ad	BSテレ東 BSジャパン bstvtokyo
 # BS: BSフジ
-nsid	0x400b5	BSフジ
-nsid	0x400b6	BSフジ
-nsid	0x400b7	BSフジ
+nsid	0x400b5	BSフジ bsfuji
+nsid	0x400b6	BSフジ bsfuji
+nsid	0x400b7	BSフジ bsfuji
 # BS: WOWOWプライム
 nsid	0x400bf	WOWOW
 # BS: WOWOWライブ
