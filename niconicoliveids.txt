@@ -82,5 +82,11 @@ nsid	0x400de	co5193029
 nsid	0x400ea	co5217651
 # BS: BSアニマックス
 nsid	0x400ec	co5296297
+# BS: BS松竹東急
+nsid	0x40104	co5682554
+# BS: BSJapanext
+nsid	0x40107	co5682551
+# BS: BSよしもと
+nsid	0x40109	co5682548
 # CS: AT-X
 nsid	0x7014d	co5245469

@@ -878,6 +878,12 @@
 4	256	BS	ディズニーch	0
 # BS: Dlife
 4	258	BS	Dlife	0
+# BS: BS松竹東急
+4	260	BS	BS松竹東急	0
+# BS: BSJapanext
+4	263	BS	BSJapanext	0
+# BS: BSよしもと
+4	265	BS	BSよしもと	0
 # BS: 放送大学ラジオ
 4	531	BS	放送大学ラジオ	0
 # BS: SOLiVE24

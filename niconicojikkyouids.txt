@@ -119,6 +119,12 @@ nsid	0x400ff	255
 nsid	0x40100	256
 # BS: Dlife
 nsid	0x40102	258
+# BS: BS¼’|“Œ‹}
+nsid	0x40104	260
+# BS: BSJapanext
+nsid	0x40107	263
+# BS: BS‚æ‚µ‚à‚Æ
+nsid	0x40109	265
 # BS: •ú‘—‘åŠwƒ‰ƒWƒI
 nsid	0x40213	231
 # BS: SOLiVE24
