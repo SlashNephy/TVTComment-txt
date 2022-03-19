@@ -2,7 +2,7 @@
 
 🖨 [saya](https://github.com/SlashNephy/saya) の [定義ファイル](https://github.com/SlashNephy/saya/blob/dev/docs/definitions.yml) から [TVTComment](https://github.com/noriokun4649/TVTComment) 用の定義ファイルを生成する CI
 
-2ch の板定義をすべて使用するためには [PR #19](https://github.com/noriokun4649/TVTComment/pull/19) が適用された TVTComment が必要です。
+5ch の板定義をすべて使用するためには [PR #19](https://github.com/noriokun4649/TVTComment/pull/19) が適用された TVTComment が必要です。
 
 ## 生成済み定義ファイル
 
