@@ -20,6 +20,9 @@ BSFREE_BS11	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	BS11
 BSFREE_BS12	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	BS12 TwellV
 BSFREE_OUJ	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	放送大学
 BSFREE_DLIFE	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	Dlife
+BSFREE_SYOCHIKUTOKYU	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	BS松竹東急
+BSFREE_JAPANEXT	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	BSJapanext
+BSFREE_YOSHIMOTO	BS実況(無料)	https://tanuki.5ch.net/livebs2/subback.html	BSよしもと
 BSPAY_WOWOWP	BS実況(有料)	https://sora.5ch.net/livewowow/subback.html	WOWOWプライム
 BSPAY_WOWOWC	BS実況(有料)	https://sora.5ch.net/livewowow/subback.html	WOWOWシネマ
 BSPAY_WOWOWL	BS実況(有料)	https://sora.5ch.net/livewowow/subback.html	WOWOWライブ
@@ -379,6 +382,12 @@ nsid	0x400fc	NANJ_WOWOW
 nsid	0x400ff	SKYPER_225
 # BS: Dlife
 nsid	0x40102	BSFREE_DLIFE
+# BS: BS松竹東急
+nsid	0x40104	BSFREE_SYOCHIKUTOKYU
+# BS: BSJapanext
+nsid	0x40107	BSFREE_JAPANEXT
+# BS: BSよしもと
+nsid	0x40109	BSFREE_YOSHIMOTO
 # BS: 放送大学ラジオ
 nsid	0x40213	BSFREE_OUJ
 # BS: SOLiVE24
