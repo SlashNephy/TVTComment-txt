@@ -72,44 +72,44 @@ ENDLESS_WNI	実況ch	https://mao.5ch.net/endless/subback.html	WNI
 NANU_WNI	なんでも実況U	https://fate.5ch.net/liveuranus/subback.html	WNI
 LOVELIVE_NHK	ラブライブ！	https://fate.5ch.net/lovelive/subback.html	NHK
 LOVELIVE_ETV	ラブライブ！	https://fate.5ch.net/lovelive/subback.html	Eテレ ETV
-NANJ_NHK	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	NHK
-NANJ_ETV	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	Eテレ ETV
-NANJ_NTV	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	日テレ NTV
-NANJ_TBS	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	TBS
-NANJ_CX	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	フジ CX
-NANJ_ANB	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	テレ朝 【EX】 ﾆﾁｱｻ
-NANJ_TX	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	テレ東 TX
-NANJ_MX	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	MX
-NANJ_TVK	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	TVK
-NANJ_SUN	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	SUN サンテレビ
-NANJ_MBS	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	MBS
-NANJ_ABC	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	ABC
-NANJ_CBC	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	CBC
-NANJ_JCOM	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	JCOM
-NANJ_NHKBS1	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS1 NHKBS
-NANJ_NHKBS2	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS2
-NANJ_NHKBSP	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BSプレミアム BSP BS3 bsシネマ
-NANJ_BSNTV	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS日テレ BS4
-NANJ_BSANB	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS朝日
-NANJ_BSTBS	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BSTBS BS-TBS
-NANJ_BSTX	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BSテレ東 BSジャパン
-NANJ_BSCX	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BSフジ
-NANJ_WOWOW	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	WOWOW 【wowwow】
-NANJ_BS11	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS11 BS12 BS13 BS14 BS15 BS16 BS17 BS18 BS19 BS20 BS21
-NANJ_BS12	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	BS12 TwellV BS十二
-NANJ_JSPORTS	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	JSPORTS Jスポ SPORTS Jspo
-NANJ_JSPORTS1	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	Jスポ1 SPORTS1 Jspo1
-NANJ_JSPORTS2	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	Jスポ2 SPORTS2 Jspo2
-NANJ_JSPORTS3	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	Jスポ3 SPORTS3 Jspo3
-NANJ_JSPORTS4	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	Jスポ4 SPORTS4 Jspo4
-NANJ_CXONE	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	ONE
-NANJ_CXTWO	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	TWO
-NANJ_CXNEXT	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	NEXT
-NANJ_NEWS24	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	NEWS24
-NANJ_SKYA	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	スカイA
-NANJ_GTASU	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	G+
-NANJ_TBSCH	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	TBSch
-NANJ_SLPLUS	なんでも実況(ジュピター)	https://eagle.5ch.net/livejupiter/subback.html	SL+
+NANJ_NHK	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	NHK
+NANJ_ETV	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	Eテレ ETV
+NANJ_NTV	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	日テレ NTV
+NANJ_TBS	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	TBS
+NANJ_CX	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	フジ CX
+NANJ_ANB	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	テレ朝 【EX】 ﾆﾁｱｻ
+NANJ_TX	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	テレ東 TX
+NANJ_MX	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	MX
+NANJ_TVK	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	TVK
+NANJ_SUN	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	SUN サンテレビ
+NANJ_MBS	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	MBS
+NANJ_ABC	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	ABC
+NANJ_CBC	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	CBC
+NANJ_JCOM	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	JCOM
+NANJ_NHKBS1	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS1 NHKBS
+NANJ_NHKBS2	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS2
+NANJ_NHKBSP	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BSプレミアム BSP BS3 bsシネマ
+NANJ_BSNTV	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS日テレ BS4
+NANJ_BSANB	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS朝日
+NANJ_BSTBS	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BSTBS BS-TBS
+NANJ_BSTX	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BSテレ東 BSジャパン
+NANJ_BSCX	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BSフジ
+NANJ_WOWOW	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	WOWOW 【wowwow】
+NANJ_BS11	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS11 BS12 BS13 BS14 BS15 BS16 BS17 BS18 BS19 BS20 BS21
+NANJ_BS12	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	BS12 TwellV BS十二
+NANJ_JSPORTS	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	JSPORTS Jスポ SPORTS Jspo
+NANJ_JSPORTS1	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	Jスポ1 SPORTS1 Jspo1
+NANJ_JSPORTS2	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	Jスポ2 SPORTS2 Jspo2
+NANJ_JSPORTS3	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	Jスポ3 SPORTS3 Jspo3
+NANJ_JSPORTS4	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	Jスポ4 SPORTS4 Jspo4
+NANJ_CXONE	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	ONE
+NANJ_CXTWO	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	TWO
+NANJ_CXNEXT	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	NEXT
+NANJ_NEWS24	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	NEWS24
+NANJ_SKYA	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	スカイA
+NANJ_GTASU	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	G+
+NANJ_TBSCH	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	TBSch
+NANJ_SLPLUS	なんでも実況(ガリレオ)	https://nova.5ch.net/livegalileo/subback.html	SL+
 
 [threadmapping]
 # GR: NHK 総合
