@@ -74,7 +74,7 @@ def dump_channels(data):
 
 
 if __name__ == "__main__":
-    with urllib.request.urlopen("https://raw.githubusercontent.com/SlashNephy/saya/dev/docs/definitions.yml") as response:
+    with urllib.request.urlopen("https://raw.githubusercontent.com/SlashNephy/saya-definitions/master/definitions.yml") as response:
         content = response.read()
         data = yaml.load(content, Loader=yaml.SafeLoader)
 
